@@ -7,26 +7,26 @@ Este projeto é uma plataforma open source para estudantes e professores interag
 
 ## Funcionalidades
 
-  -**Registro e Autenticação**: Criação de contas, login e logout.
-  -**Fórum de Discussão**: Criação de tópicos, respostas, sistema de upvotes/downvotes, categorias por disciplina.
-  -**Sistema de Comentários**: Comentários aninhados nas respostas.
-  -**Jornal Integrado**: Publicação de artigos, categorização, comentários em artigos.
-  -**Notificações**: Alertas para novas respostas e artigos.
-  -**Mensagens Privadas**: Envio de mensagens entre usuários.
+  - **Registro e Autenticação**: Criação de contas, login e logout.
+  - **Fórum de Discussão**: Criação de tópicos, respostas, sistema de upvotes/downvotes, categorias por disciplina.
+  - **Sistema de Comentários**: Comentários aninhados nas respostas.
+  - **Jornal Integrado**: Publicação de artigos, categorização, comentários em artigos.
+  - **Notificações**: Alertas para novas respostas e artigos.
+  - **Mensagens Privadas**: Envio de mensagens entre usuários.
 
 ## Tecnologias Utilizadas
-  **Front-end**: React
-  **Back-end**: Node.js
-  **Banco de Dados**: PostgreSQL
-  **Autenticação**: JWT (JSON Web Tokens)
-  **Hospedagem**: não decidido
+ - **Front-end**: React
+ - **Back-end**: Node.js
+ - **Banco de Dados**: PostgreSQL
+ - **Autenticação**: JWT (JSON Web Tokens)
+ - **Hospedagem**: não decidido
 
 
 ## Como Executar o Projeto
 
 **Pré-requisitos**
-  -Node.js instalado (v14 ou superior)
-  -PostgreSQL instalado
+  - Node.js instalado (v14 ou superior)
+  - PostgreSQL instalado
 
 
 ## Configuração do Ambiente
